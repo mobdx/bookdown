@@ -1,0 +1,25 @@
+---
+title: "informe2"
+author: "io"
+date: "28/9/2021"
+output:
+  bookdown::gitbook:
+  highlight: espresso
+---
+# Introduccion
+En el siguiente apartado se presentarán distintos ejercicios provinientes del libro de Probabilidad y estadística para ingeniería y ciencias-Cengage learning (2012) de Jay L. Devore, Patricia Solorio Gómez y Ana Elizabeth García Hernández. Tales ejercicios serán el 47, 49, 51, 53, 55, 57, 59, 61, 65 y el 67 de la sección 3.4 denominada distribución de probabilidad binomial (pag. 114-122) y los ejercicios 29, 31, 33, 35, 37, 39, 41, 43, 45, 47 y 49 de la sección 4.3 denominada distribución normal (pag. 152-165). 
+
+## Metodologia
+En el siguiente apartado se presento distintos ejercicios provinientes del libro de Probabilidad y Estadística para ingeniería y ciencias-Cengage learning (2012) de Jay L. Devore, Patricia Solorio Gómez y Ana Elizabeth García Hernández. Tales ejercicios fueron el 47, 49, 51, 53, 55, 57, 59, 61, 65 y el 67 de la sección 3.4 denominada distribución de probabilidad binomial (pag. 114-122) y los ejercicios 29, 31, 33, 35, 37, 39, 41, 43, 45, 47 y 49 de la sección 4.3 denominada distribución normal (pag. 152-165).
+
+# Sección 3.4 Distribución de Probabilidad Binomial (pag. 114-122)
+
+_47._ Use la tabla A.1 del apéndice para obtener las siguientes probabilidades:
+
+_a._ B(4; 15, .3)
+
+_Solución:_
+```{r}
+5*3
+```
+Steven es gay
